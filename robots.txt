@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /functions/
+Disallow: /pages/
+Allow: /posyandu.php
+Allow: /program.php
+Allow: /galeri.php
+Allow: /kontak.php
+Allow: /kantin.php
+Allow: /bank-sampah.php
+Allow: /tentang.php
